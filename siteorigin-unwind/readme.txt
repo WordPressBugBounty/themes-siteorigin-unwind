@@ -101,6 +101,9 @@ Original design files are available on [Google Drive](https://drive.google.com/f
 
 == Changelog ==
 
+= 1.9.18 - 14 November 2024 =
+* Updated WooCommerce Form Checkout template to version 9.4.0.
+
 = 1.9.17 - 18 October 2024 =
 * Ensured sticky logo always correctly aligned.
 * Updated SiteOrigin Settings framework.
