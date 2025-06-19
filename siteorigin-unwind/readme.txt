@@ -4,7 +4,7 @@ Contributors: siteorigin
 
 Tags: one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-images, full-width-template, post-formats, sticky-post, theme-options, translation-ready, blog, e-commerce
 
-Tested up to: 6.6
+Tested up to: 6.8
 Requires at least: 4.7
 Requires PHP: 7.0.0
 License: GPLv2 or later
@@ -100,6 +100,12 @@ This theme makes use of the [SiteOrigin Settings Framework](https://github.com/s
 Original design files are available on [Google Drive](https://drive.google.com/folderview?id=0B1NA5KhRaLDDUmlkb0ZmaXg1WDQ&usp=sharing).
 
 == Changelog ==
+
+= 1.9.19 - 19 June 2025 =
+* Avatars: Increased avatar resolution for high-DPI displays.
+* Settings: Updated SiteOrigin Settings framework.
+* Updated Tested up to tag.
+* Developer: Compiled Sass changes into generated CSS.
 
 = 1.9.18 - 14 November 2024 =
 * Updated WooCommerce Form Checkout template to version 9.4.0.

@@ -31,7 +31,7 @@ if ( ! function_exists( 'siteorigin_unwind_author_box' ) ) {
 	function siteorigin_unwind_author_box() { ?>
 		<div class="author-box">
 			<div class="author-avatar">
-				<?php echo get_avatar( get_the_author_meta( 'ID' ), 120 ); ?>
+				<?php echo get_avatar( get_the_author_meta( 'ID' ), 240 ); ?>
 			</div>
 			<div class="author-description">
 				<span class="post-author-title">
@@ -106,7 +106,7 @@ if ( ! function_exists( 'siteorigin_unwind_comment' ) ) {
 		<div class="comment-box">
 			<?php if ( $type == 'comment' ) { ?>
 				<div class="avatar-container">
-					<?php echo get_avatar( get_comment_author_email(), 70 ); ?>
+					<?php echo get_avatar( get_comment_author_email(), 120 ); ?>
 				</div>
 			<?php } ?>
 

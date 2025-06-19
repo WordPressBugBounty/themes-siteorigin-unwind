@@ -1,4 +1,4 @@
-# Copyright (C) 2024 siteorigin-unwind
+# Copyright (C) 2025 siteorigin-unwind
 # This file is distributed under the same license as the siteorigin-unwind package.
 msgid ""
 msgstr ""
