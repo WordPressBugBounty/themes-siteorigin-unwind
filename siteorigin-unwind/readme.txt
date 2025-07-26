@@ -101,6 +101,9 @@ Original design files are available on [Google Drive](https://drive.google.com/f
 
 == Changelog ==
 
+= 1.9.20 - 26 July 2025 =
+* Resolved duplicate WooCommerce notice.
+
 = 1.9.19 - 19 June 2025 =
 * Avatars: Increased avatar resolution for high-DPI displays.
 * Settings: Updated SiteOrigin Settings framework.

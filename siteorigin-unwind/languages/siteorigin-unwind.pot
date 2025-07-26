@@ -565,7 +565,7 @@ msgstr ""
 msgid "Set the number of products per row on shop archive pages."
 msgstr ""
 
-#: inc/settings.php:371, woocommerce/template-tags.php:98
+#: inc/settings.php:371, woocommerce/template-tags.php:107
 msgid "Quick View"
 msgstr ""
 
